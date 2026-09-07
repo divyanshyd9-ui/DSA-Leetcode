@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
