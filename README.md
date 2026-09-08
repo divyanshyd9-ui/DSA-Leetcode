@@ -58,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
