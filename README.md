@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
