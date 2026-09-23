@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
