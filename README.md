@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
