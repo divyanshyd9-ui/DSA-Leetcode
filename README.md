@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0074-search-a-2d-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
