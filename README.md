@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Pigeonhole Principle
 |  |
