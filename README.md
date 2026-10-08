@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0620-not-boring-movies) |
 ## Math
 |  |
