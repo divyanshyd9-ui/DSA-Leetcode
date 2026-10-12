@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0018-4sum) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
