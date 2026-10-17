@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
