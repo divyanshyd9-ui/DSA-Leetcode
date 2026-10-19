@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
