@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2235-add-two-integers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
