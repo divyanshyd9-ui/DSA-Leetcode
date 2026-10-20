@@ -22,20 +22,21 @@ public:
             fast=fast->next;
             n--;
         }
-        ListNode* prev=head;
+        
         if(fast->next==NULL){
             slow=slow->next;
             
             head=slow;
             return head;
         }
+        ListNode* prev=head;
         while(fast->next!=NULL){
             prev=slow;
             slow=slow->next;
             fast=fast->next;
         }
        prev->next=slow->next;
-       delete slow;
+       
        return head;
     }
 };
