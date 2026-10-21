@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
