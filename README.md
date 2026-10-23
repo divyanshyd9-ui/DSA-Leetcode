@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
