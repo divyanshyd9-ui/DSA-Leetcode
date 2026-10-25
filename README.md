@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Counting Sort
 |  |
