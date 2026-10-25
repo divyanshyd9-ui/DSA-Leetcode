@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0414-third-maximum-number) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
 ## Stack
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Newton's Method
 |  |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
