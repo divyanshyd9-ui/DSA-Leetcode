@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
 | ------- |
