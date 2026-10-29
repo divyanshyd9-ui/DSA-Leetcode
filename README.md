@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
