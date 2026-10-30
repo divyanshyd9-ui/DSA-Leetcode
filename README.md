@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -398,16 +399,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
