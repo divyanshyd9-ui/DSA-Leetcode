@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
