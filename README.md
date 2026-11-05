@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
