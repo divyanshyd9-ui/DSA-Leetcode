@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0506-relative-ranks) |
+| [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
