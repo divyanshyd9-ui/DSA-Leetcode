@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0735-asteroid-collision) |
 | [0888-fair-candy-swap](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -481,4 +484,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
