@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
