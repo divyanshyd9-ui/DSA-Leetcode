@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
