@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
