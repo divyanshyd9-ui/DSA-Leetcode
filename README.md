@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/0724-find-pivot-index) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/divyanshyd9-ui/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
